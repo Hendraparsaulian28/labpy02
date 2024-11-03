@@ -1,5 +1,3 @@
-# Latihan 3: Buat program python untuk kasus berikut:
-
 ## Kasus 1: Program Pemesanan Tiket Bioskop
 
 Buat program yang menghitung harga tiket bioskop. Tiket reguler berharga Rp50.000,
